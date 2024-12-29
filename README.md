@@ -10,6 +10,8 @@ This repository contains a Jupyter notebook (`educause_data_extraction_and_analy
 4. **Generate CSV** summaries of how many files match the keywords for each year.
 5. **Visualize the data** to produce simple line plots comparing keyword frequencies over time.
 
+<img src="keyword_count.png" alt="keyword_count" width="500"/>
+
 ## Features
 
 - **HTML Downloading**: Automates pulling HTML pages from URLs in a CSV file.
